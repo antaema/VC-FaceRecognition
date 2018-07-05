@@ -1,3 +1,4 @@
+LBPH
 Image   Method   Validation  Confidence Person 
 1	LBPH	True	78.45459248977554	"s1"
 2	LBPH	True	65.34964384190012	"s2"
@@ -14,3 +15,4 @@ Image   Method   Validation  Confidence Person
 13	LBPH	True	69.95222665381131	"s13"
 14	LBPH	True	63.5570785077966	"s14"
 15	LBPH	True	74.47969861000922	"s15"
+Hit rate = 0.8666666666666667Error = 0.13333333333333333Accuracy = 0.8666666666666667

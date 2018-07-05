@@ -1,0 +1,30 @@
+ 
+Windows
+    Baixar pyhton 
+    https://www.python.org/downloads/release/python-361rc1/
+    
+    Baixar Conda 
+    https://repo.anaconda.com/archive/Anaconda3-5.2.0-Windows-x86_64.exe
+    
+    Instalar pyhton
+    Instalar anaconda
+    
+    conda install -c conda-forge opencv
+    conda install -c anaconda numpy
+    
+    Entrar na pasta
+    pyhton my.py
+Linux
+    sudo add-apt-repository ppa:deadsnakes/ppa
+    sudo apt-get update
+    sudo apt-get install python3.6
+    
+    Baixar Conda 
+    https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
+    Instalar anaconda
+    
+    conda install -c conda-forge opencv
+    conda install -c anaconda numpy
+    
+    Entrar na pasta
+    pyhton my.py
